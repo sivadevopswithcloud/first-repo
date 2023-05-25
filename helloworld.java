@@ -1,4 +1,4 @@
-// Your First Program example
+// Your First Program example , its a good practise
 
 class HelloWorld {
     public static void main(String[] args) {
